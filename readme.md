@@ -16,11 +16,11 @@ This course covers the core concepts of OOP from the ground up — starting with
 | 5 | Static VS Dynamic Memory - Pointers in depth | [Video8](https://youtu.be/rON6ZSkYWYA) - [Video9](https://youtu.be/YzlLhu0VL9I) |  | ▸ Memory Management (Memory Regions) <br> ▸ Compiler Management VS Developer Management (Static Memory VS Dynamic Memory) <br> ▸ Manage pointer in Stack or Heap or both? <br> ▸ Difference between Static Memory VS Dynamic Memory <br> ▸ Where Object and Members Stored? in Heap or Stack? <br> ▸ Pointers dangling problem <br> ▸ Array with Static Memory (Overflow Problem) <br> ▸ Pointer to stack address <br> ▸ Memory Leak Problem <br> ▸ Pointer to array with default value | [Lab5](Labs/Lab5.pdf) |
 | 6 | Dynamic allocation inside classes + Static members + Copy Constructor + Constructor VS Destructor + Memberwise assignment operator | [Video10](https://youtu.be/3HEk33SrU6U) - [Video11](https://youtu.be/Q5zvOBeOfsA) - [Video12](https://youtu.be/XCkIV35Vzjg) - [Video13](https://youtu.be/Ou7DuC_BPE8) - [Video14](https://youtu.be/h4MTxIQYrJo) |  | ▸ static VS dynamic object allocation <br> ▸ Static Array inside class <br> ▸ Why we need Static Member <br> ▸ Dynamic array inside class <br> ▸ What is Destructor? Why? <br> ▸ Delete object pointer fire destructor? + order of destructors execution <br> ▸ Constructor VS Destructor (order of execution examples) <br> ▸ Initialize object from another one <br> ▸ Copy Constructor <br> ▸ Pass and return object to/from function <br> ▸ Array of objects, const object | [Lab6](Labs/Lab6.pdf) |
 | ***break*** | *Trial exam questions* | [Video15](https://youtu.be/4fUE2uSMf3Q) |  |  | [Trial exam questions](Labs/Practical%20Questions.pdf) |
-| 7 **(Current)** | Inheritance |  |  |  |
-| 8 | Polymorphism and Virtual Functions |  |  |  |
+| 7 | Holiday |  |  |  |
+| 8 | Inheritance | [Video16](https://youtu.be/YsgVxQPxM_A) - [Video17](https://youtu.be/oqglMynuLv4) |  | ▸ what is inheritance <br> ▸ Inheritance VS Composition <br> ▸ Inheritance syntax <br> ▸ constructor & destructor order <br> ▸ inheritance class access specifications <br> ▸ Override <br> ▸ Trial Exam Questions on inheritance|
 | 9 | Midterm |  |  |  |
-| 10 | Abstraction, Interface, Templates |  |  |  |
-| 11 | Operators overloading |  |  |  |
+| 10 **(Current)** | Virtual Functions (Static VS Dynamic Binding) + Polymorphism + Abstraction | [Video18](https://youtu.be/APOSbeDyHLw) |  | ▸ Static VS Dynamic Binding <br> ▸ Redefine VS Override function <br> ▸ Pointer to object with inheritance <br> ▸ why we need virtual in destructor <br> ▸ Polymorphism <br> ▸ overloading VS Overriding |
+| 11 | Templates + Operators overloading |  |  |  |
 | 12 | OOD: SOLID Principles |  |  |  |
 | 13 | Exception, File I/O |  |  |  |
 
