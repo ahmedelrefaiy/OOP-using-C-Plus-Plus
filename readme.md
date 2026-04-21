@@ -21,9 +21,8 @@ This course covers the core concepts of OOP from the ground up — starting with
 | 9 | Midterm |  |  |  |
 | 10 | Virtual Functions (Static VS Dynamic Binding) + Polymorphism + Abstraction | [Video18](https://youtu.be/APOSbeDyHLw) - [Video19](https://youtu.be/Md-FL2rWbAA) |  | ▸ Static VS Dynamic Binding <br> ▸ Redefine VS Override function <br> ▸ Pointer to object with inheritance <br> ▸ why we need virtual in destructor <br> ▸ Polymorphism <br> ▸ overloading VS Overriding ▸ multiple inheritance ambiguous problems <br> ▸ inheritnace types (single, multiple, multilevel, hierarchical) <br> ▸ Polymorphism powerful with array of parent point to many children example <br> ▸ Abstraction - (interface) <br> ▸ why we need Abstraction? (real world examples) <br> ▸ From inheritance example to the power of Abstraction <br> ▸ Trial Exam questions <br> | [Lab7-8](Labs/Lab7-8.pdf) |
 | 11 **(Current)** | Templates + Operators overloading |  [Video20](https://youtu.be/f_JQ5vaphQg) - [Video21](https://youtu.be/R-0Mj81xxGI)  |  | ▸ All Types of Polymorphism <br> ▸ Template Functions, relation with overloading <br> ▸ Template Function with single or multiple types <br> ▸ typename vs class keyword <br> ▸ Template Class <br> ▸ when we need templates <br> ▸ behaviour of compiler with templates <br> ▸ Trial Exam practical questions <br> | |
-| 12 | OOD: SOLID Principles |  |  |  |
-| 13 | Exception, File I/O |  |  |  |
-
+| 12 | Exception, File I/O |  |  |  |
+| 13 | OOD: SOLID Principles + Design Patterns (simple ones) |  |  |  |
 
 ---
 
